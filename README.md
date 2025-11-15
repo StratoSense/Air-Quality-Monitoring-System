@@ -107,15 +107,33 @@ This project demonstrates IoT, embedded systems, cloud integration, and real-tim
 
 ---
 
-## Blynk Dashboards
+Here is a **cleaner, neater, more professional** version without captions — only improved formatting and spacing:
 
-### Mobile Dashboard
+---
 
-*(Insert screenshot)*
+## **Blynk Dashboards**
 
-### Web Dashboard
+### **Mobile Dashboard**
 
-*(Insert screenshot)*
+![Mobile Dashboard](images/mobile_dashboard1.jpg)
+
+![Mobile Dashboard](images/mobile_dashboard2.jpg)
+
+---
+
+### **Web Dashboard**
+
+![Web Dashboard](images/web_dashboard1.jpg)
+
+![Web Dashboard](images/web_dashboard2.jpg)
+
+---
+
+## **Hardware**
+
+### **Air Monitor Device**
+
+![Physical System](images/air_monitor.jpg)
 
 ---
 
