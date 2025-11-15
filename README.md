@@ -233,7 +233,7 @@ See the LICENSE file for more information.
 
 ## Contributors
 
-- Adithyan
+- Adithyan TT
 - Adithya Krishna
 - Ashiq Thomas Ninan
 - Anuraj Vijayan
