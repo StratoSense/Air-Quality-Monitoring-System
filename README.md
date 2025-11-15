@@ -123,9 +123,9 @@ Here is a **cleaner, neater, more professional** version without captions — on
 
 ### **Web Dashboard**
 
-![Web Dashboard](images/web_dashboard1.jpg)
+![Web Dashboard](images/web_dashboard1.png)
 
-![Web Dashboard](images/web_dashboard2.jpg)
+![Web Dashboard](images/web_dashboard2.png)
 
 ---
 
